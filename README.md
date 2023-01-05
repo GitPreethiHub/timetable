@@ -103,6 +103,10 @@ Execute the program
              </table>
              </body>
              </html>
+ 
+ 
+# RESULT: Webpage to display timetable was succesfully created using HTML
+
 
 # OUPUT
  ![serverOutput](/images/timetable.png)
